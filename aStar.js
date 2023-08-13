@@ -169,14 +169,6 @@ function draw() {
     }
   }
 
-//   for (var i = 0; i < closedSet.length; i++) {
-//     closedSet[i].show(color(255, 0, 0));
-//   }
-
-//   for (var i = 0; i < openSet.length; i++) {
-//     openSet[i].show(color(0, 255, 0));
-//   }
-
   // Find the path
   if (!nosolution) {
     path = [];
@@ -188,9 +180,6 @@ function draw() {
     }
   }
 
-  // for (var i = 0; i < path.length; i++) {
-  //   path[i].show(color(0, 0, 255));
-  // }
   
   noFill();
   stroke(255, 255, 0);
