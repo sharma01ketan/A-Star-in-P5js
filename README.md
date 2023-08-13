@@ -1,3 +1,5 @@
 # A-Star-in-P5js
-Simple Implementation of A star algorithm in P5.js framework
-![How does it look like ?](SS)
+
+This is a simple implementation of the A* algorithm using the P5.js framework.
+
+[Reference Used](https://www.youtube.com/watch?v=aKYlikFAV4k&t=1814s "Reference Used")
